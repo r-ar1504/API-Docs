@@ -5,9 +5,9 @@
  * media queries.
  */
 module.exports.brandNames = {
-  desktop: 'Wobble API Documentation',
-  tablet: 'Wobble API Docs',
-  mobile: 'API Docs'
+  desktop: 'John Deere API  Development' ,
+  tablet: 'John Deere',
+  mobile: 'John Deere'
 };
 
 /**

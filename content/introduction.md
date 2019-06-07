@@ -1,6 +1,6 @@
-## Our API
+## SCS Cost Management REST API     
 
-Welcome to coolcorp biz! This is our API documentation. This documentation
-is generated from normal Markdown files using [docbox](https://github.com/tmcw/docbox),
-so it can use Markdown syntax, like **bold**, *emphasis*, ~~strikethrough~~,
-`code`, and more.
+Supply Chain Solutions Data API  aim to power up all the applications on the **JDSN Catalog** 
+serving as a tool for developers cutting development times to half, ALFA phase used as a **POC**
+for the México's 2019 hackaton.   🌮🇲🇽 **POWERED**
+

@@ -1,20 +1,19 @@
-## Wobble
+## Projects
 
-This is our high-quality wobbles API. You can use this API to request
-and remove different wobbles at a low wibble price.
+Global Project Tracking v1 API
 
-### List wobbles
+### project
 
 Lists all wobbles for a particular account.
 
 ```endpoint
-GET /wobbles/v1/{username} wobbles:read
+GET scsapi.deere.com/v1/projects/
 ```
 
 #### Example request
 
 ```curl
-$ curl https://wobble.biz/wobbles/v1/{username}
+$ curl https:/scsapi.deere.com/v1/projects/
 ```
 
 ```bash
